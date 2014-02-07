@@ -1,13 +1,13 @@
 This repo includes 8 challenges, all of which are asking you to design a relational data model in order of increasing difficulty, more or less.
 
-Part 1: Student roster
-Part 2: Forum database design
-Part 3: Family tree database design
-Part 4: Address book schema
-Part 5: Poll database design
-Part 6: Reddit JR database design
-Part 7: IMDB database design
-Part 8: University course database design
+- Part 1: Student roster
+- Part 2: Forum database design
+- Part 3: Family tree database design
+- Part 4: Address book schema
+- Part 5: Poll database design
+- Part 6: Reddit JR database design
+- Part 7: IMDB database design
+- Part 8: University course database design
 
 ## Basic SQL
 
