@@ -167,7 +167,11 @@ Once you've got the basics of CRUD against a single relation (table, entity, etc
 
 Consider that any two related tables can be represented as A and B in the diagrams below. Whats more, a single table can often be joined to itself to yield interesting results.
 
+Take a look at chapters 4 and 7 in [Beginning Databases with PostgreSQL](https://www.dropbox.com/s/w2jxyygvmre9te3/Beginning%20Databases%20With%20PostgreSQL.pdf) for more on joins as well as aggregate functions like `count()` and `sum()`.
+
+---
+
 ![SQL joins](http://f.cl.ly/items/393r1B431Y432i0R2Z3E/sql_joins.jpg)
 
-Take a look at chapters 4 and 7 in [Beginning Databases with PostgreSQL](https://www.dropbox.com/s/w2jxyygvmre9te3/Beginning%20Databases%20With%20PostgreSQL.pdf) for more on joins as well as aggregate functions like `count()` and `sum()`.
+
 
